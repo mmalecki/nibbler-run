@@ -2,7 +2,7 @@
   "name": "run-playbook-in-playbook",
   "version": "0.0.0",
   "dependencies": {
-    "nibbler": "~0.1.1",
+    "nibbler": "~0.2.0",
     "nibbler-apt": "~0.1.0",
     "nibbler-run": "~0.1.2",
     "nibbler-runner-ssh": "~0.2.0"
