@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mmalecki/nibbler-run/issues"
   },
-  "homepage": "https://github.com/mmalecki/nibbler-run"
+  "homepage": "https://github.com/mmalecki/nibbler-run",
+  "dependencies": {
+    "nibbler-normalize": "~0.1.0"
+  }
 }
