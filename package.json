@@ -1,6 +1,6 @@
 {
   "name": "nibbler-run",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Run a nibbler playbook given a context",
   "main": "index.js",
   "scripts": {
